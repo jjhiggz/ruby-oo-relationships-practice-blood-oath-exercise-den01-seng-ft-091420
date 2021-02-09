@@ -51,14 +51,14 @@ Questions you should ask yourself:
 
 **`Cult`**
 
-<!-- * `Cult#name`
+* `Cult#name`
   * returns a `String` that is the cult's name
 * `Cult#location`
   * returns a `String` that is the city where the cult is located
 * `Cult#founding_year`
   * returns an `Integer` that is the year the cult was founded
 * `Cult#slogan`
-  * returns a `String` that is this cult's slogan -->
+  * returns a `String` that is this cult's slogan
 * `Cult#recruit_follower`
   * takes in an argument of a `Follower` instance and adds them to this cult's list of followers
 * `Cult#cult_population`
